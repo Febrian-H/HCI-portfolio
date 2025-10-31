@@ -62,7 +62,7 @@ The site is optimized for:
 portfolio assignment/
 │
 ├── index.html
-├── style.css
+├── styles.css
 ├── images/
 └── README.md
 ```
